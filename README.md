@@ -65,6 +65,7 @@ I enjoy turning ideas into practical solutions through clean architecture, thoug
 
 <p align="left">
   <a href="mailto:ahmedrakin45@gmail.com">Email</a>
+  ·
   <a href="https://www.linkedin.com/in/vectorpointgrafix/">LinkedIn</a>
   ·
   <a href="https://www.behance.net/Vector-point">Behance</a>
