@@ -25,15 +25,7 @@ Over time, I have developed a strong appreciation for minimalist design principl
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devlowper&show_icons=true&theme=radial" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlowper&layout=compact&theme=radial" alt="Top Languages" height="180" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devlowper&theme=radial" alt="GitHub Streak" />
-</p>
 
 ---
 
