@@ -5,6 +5,9 @@
 Building clean, scalable, and user-focused web experiences.
 
 <p align="left">
+    <a href="mailto:ahmedrakin45@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/vectorpointgrafix/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
@@ -24,18 +27,18 @@ I'm a **Full-Stack Web Developer** passionate about building modern, efficient, 
 
 I enjoy turning ideas into practical solutions through clean architecture, thoughtful UI/UX, and continuous learning.
 
-* 🔭 Building **full-stack web applications**
-* 🌱 Exploring **Next.js, SSR, and modern backend architecture**
-* 🧠 Strengthening **DSA and problem-solving skills**
-* 💻 Practicing **Competitive Programming**
-* 🎨 Experienced in **UI/UX and visual design**
+* Building **full-stack web applications**
+* Exploring **Next.js, SSR, and modern backend architecture**
+* Strengthening **DSA and problem-solving skills**
+* Practicing **Competitive Programming**
+* Experienced in **UI/UX and visual design**
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,html,css,cpp,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,html,css,cpp,c,java,git,github,vscode" />
 </p>
 
 ---
@@ -54,13 +57,14 @@ I enjoy turning ideas into practical solutions through clean architecture, thoug
 
 ## Currently Learning
 
-`Next.js` · `SSR` · `Backend Architecture` · `System Design` · `DSA`
+`Next.js` · `Server-Side Rendering` · `Backend Architecture` · `System Design` · `DSA` · `Competitive Programming`
 
 ---
 
 ## Connect
 
 <p align="left">
+  <a href="mailto:ahmedrakin45@gmail.com">Email</a>
   <a href="https://www.linkedin.com/in/vectorpointgrafix/">LinkedIn</a>
   ·
   <a href="https://www.behance.net/Vector-point">Behance</a>
@@ -71,5 +75,5 @@ I enjoy turning ideas into practical solutions through clean architecture, thoug
 ---
 
 <p align="center">
-  <i>Build. Learn. Solve. Improve. 🚀</i>
+  <i>Build. Learn. Solve. Improve.</i>
 </p>
