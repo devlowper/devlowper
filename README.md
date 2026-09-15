@@ -1,36 +1,55 @@
-# Hi there, I'm Rakib Hossen 👋
+# Hi, I'm Rakib Hossen 👋
+
 ### Full-Stack Web Developer
 
-![Banner Image](https://github.com/user-attachments/assets/793b05fb-7f16-4343-8978-8750e573f7f7)
+Building clean, scalable, and user-focused web experiences.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vectorpointgrafix/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/Vector-point">
+    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 💫 About Me
-I am a dedicated Full-Stack Web Developer with a deep passion for crafting modern, efficient, and visually refined digital experiences. My journey in technology is driven by curiosity, creativity, and a constant desire to transform complex ideas into simple, elegant, and functional web solutions.
+## About
 
-With a strong foundation in Computer Science and Engineering, I approach development not just as a technical process, but as an art of problem-solving. Every line of code I write is guided by clarity, structure, and purpose. I believe that great software is not only about functionality but also about how seamlessly it integrates with human experience.
+I'm a Computer Science & Engineering student and Full-Stack Web Developer passionate about building modern, efficient, and visually refined digital products.
 
-Over time, I have developed a strong appreciation for minimalist design principles and performance-driven development. I enjoy building scalable applications that are both robust in architecture and refined in user experience. My focus extends beyond just writing code—I strive to build systems that are maintainable, intuitive, and future-ready.
+I enjoy turning complex ideas into simple, maintainable, and practical solutions. My approach combines clean architecture, thoughtful UI/UX, and continuous learning.
 
-- 🚀 **Currently Exploring:** Advanced capabilities of Next.js 15, server-side rendering, and modern backend architectures.
-- 💻 **Working On:** Developing scalable full-stack web applications and improving system design skills.
-- 🎓 **Education:** Pursuing a degree in Computer Science and Engineering, strengthening my understanding of DSA and software principles.
+- Currently exploring **Next.js, SSR, and modern backend architecture**
+- Building **scalable full-stack applications**
+- Strengthening my skills in **DSA, system design, and software engineering**
 
 ---
 
-### 🛠️ Skills & Technologies
+## Tech Stack
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind,js,html,css,cpp,c,git,github,vscode" />
 </p>
 
 ---
 
+## What I Focus On
 
+- Full-Stack Web Development
+- Modern Frontend Architecture
+- REST APIs & Backend Systems
+- Database Design
+- Clean UI/UX
+- Problem Solving & DSA
 
 ---
 
-### 🌐 Connect With Me
+## Connect
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/vectorpointgrafix/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.behance.net/Vector-point" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vectorpointgrafix/">LinkedIn</a>
+  ·
+  <a href="https://www.behance.net/Vector-point">Behance</a>
 </p>
