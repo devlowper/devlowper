@@ -1,12 +1,15 @@
 # Hi, I'm Rakib Hossen 👋
 
-### Full-Stack Web Developer
+### Full-Stack Web Developer · Software Developer · Problem Solver
 
 Building clean, scalable, and user-focused web experiences.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vectorpointgrafix/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Alpha_Zeros">
+    <img src="https://img.shields.io/badge/Codeforces-Alpha__Zeros-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
   </a>
   <a href="https://www.behance.net/Vector-point">
     <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=flat-square&logo=behance&logoColor=white" />
@@ -17,13 +20,15 @@ Building clean, scalable, and user-focused web experiences.
 
 ## About
 
-I'm a Computer Science & Engineering student and Full-Stack Web Developer passionate about building modern, efficient, and visually refined digital products.
+I'm a **Full-Stack Web Developer** passionate about building modern, efficient, and maintainable web applications.
 
-I enjoy turning complex ideas into simple, maintainable, and practical solutions. My approach combines clean architecture, thoughtful UI/UX, and continuous learning.
+I enjoy turning ideas into practical solutions through clean architecture, thoughtful UI/UX, and continuous learning.
 
-- Currently exploring **Next.js, SSR, and modern backend architecture**
-- Building **scalable full-stack applications**
-- Strengthening my skills in **DSA, system design, and software engineering**
+* 🔭 Building **full-stack web applications**
+* 🌱 Exploring **Next.js, SSR, and modern backend architecture**
+* 🧠 Strengthening **DSA and problem-solving skills**
+* 💻 Practicing **Competitive Programming**
+* 🎨 Experienced in **UI/UX and visual design**
 
 ---
 
@@ -35,14 +40,21 @@ I enjoy turning complex ideas into simple, maintainable, and practical solutions
 
 ---
 
-## What I Focus On
+## Focus
 
-- Full-Stack Web Development
-- Modern Frontend Architecture
-- REST APIs & Backend Systems
-- Database Design
-- Clean UI/UX
-- Problem Solving & DSA
+* Full-Stack Web Development
+* Modern Frontend Architecture
+* REST APIs & Backend Systems
+* Database Design
+* UI/UX
+* Data Structures & Algorithms
+* Competitive Programming
+
+---
+
+## Currently Learning
+
+`Next.js` · `SSR` · `Backend Architecture` · `System Design` · `DSA`
 
 ---
 
@@ -52,4 +64,12 @@ I enjoy turning complex ideas into simple, maintainable, and practical solutions
   <a href="https://www.linkedin.com/in/vectorpointgrafix/">LinkedIn</a>
   ·
   <a href="https://www.behance.net/Vector-point">Behance</a>
+  ·
+  <a href="https://codeforces.com/profile/Alpha_Zeros">Codeforces</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Build. Learn. Solve. Improve. 🚀</i>
 </p>
